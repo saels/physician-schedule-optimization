@@ -24,4 +24,4 @@ From a business perspective, the most useful booking policy is not necessarily t
 
 ## 🔎 Explore the notebook
 
-The notebook contains the full reasoning behind the approach, the probability calculations, the arrival distribution, and the translation from model output to a practical booking decision. Review the code and accompanying analysis for the assumptions, implementation details, and additional insights behind these conclusions.
+The [notebook](https://github.com/saels/physician-schedule-optimization/blob/c6f473fa30aa777813cfaddb11469ce2cb64a456/Physician_schedule_optimization.ipynb) contains the full reasoning behind the approach, the probability calculations, the arrival distribution, and the translation from model output to a practical booking decision. Review the code and accompanying analysis for the assumptions, implementation details, and additional insights behind these conclusions.
